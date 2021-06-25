@@ -1,1 +1,1 @@
-# lab
+# LeetCode Solutions
